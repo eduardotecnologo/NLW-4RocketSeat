@@ -1,3 +1,9 @@
+Rumo ao próximo nível
+
+No primeiro dia vamos conhecer os conceitos por trás de um front-end SPA, os principais fundamentos do React como componentes, propriedades, estado e ferramentas que funcionam por trás da biblioteca como Webpack e Babel. Além disso, daremos início ao desenvolvimento da aplicação move.it (mova-se), criando a estrutura básica de componentes da página.
+
+![Screens](./screens/1dia.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
